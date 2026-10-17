@@ -1,6 +1,6 @@
 # ClassCue faculty lists
 
-Ready-made faculty lists for [ClassCue](https://classcue.zealtyro.com), the class routine app for university students. Each file is one university's teachers with their designation, department, e-mail, phone and photo where the university publishes them: **17,095 teachers at 55 universities**.
+Ready-made faculty lists for [ClassCue](https://classcue.zealtyro.com), the class routine app for university students. Each file is one university's teachers with their designation, department, e-mail, phone and photo where the university publishes them: **32,969 teachers at 69 universities**.
 
 ## Use a list
 
@@ -23,6 +23,7 @@ The file names are the ones the website links to, so a list can be fetched from 
 | --- | --- | ---: | ---: | ---: | --- |
 | **AUST** Ahsanullah University of Science and Technology | Dhaka | 465 | 439 | 3.0 MB | [download](bangladesh/AUST%20-%20Ahsanullah%20University%20of%20Science%20and%20Technology.cqfaculty) |
 | **AIUB** American International University | Dhaka | 440 | 439 | 6.9 MB | [download](bangladesh/AIUB%20-%20American%20International%20University.cqfaculty) |
+| **BMU** Bangabandhu Sheikh Mujibur Rahman Maritime University | Dhaka | 84 | 73 | 0.7 MB | [download](bangladesh/BMU%20-%20Bangabandhu%20Sheikh%20Mujibur%20Rahman%20Maritime%20University.cqfaculty) |
 | **BAUET** Bangladesh Army University of Engineering & Technology | Natore | 171 | 168 | 2.6 MB | [download](bangladesh/BAUET%20-%20Bangladesh%20Army%20University%20of%20Engineering%20%26%20Technology.cqfaculty) |
 | **BAUST** Bangladesh Army University of Science and Technology | Saidpur | 259 | 252 | 3.0 MB | [download](bangladesh/BAUST%20-%20Bangladesh%20Army%20University%20of%20Science%20and%20Technology.cqfaculty) |
 | **BUBT** Bangladesh University of Business and Technology | Dhaka | 469 | 436 | 6.0 MB | [download](bangladesh/BUBT%20-%20Bangladesh%20University%20of%20Business%20and%20Technology.cqfaculty) |
@@ -42,9 +43,11 @@ The file names are the ones the website links to, so a list can be fetched from 
 | **EWU** East West University | Dhaka | 411 | 411 | 7.3 MB | [download](bangladesh/EWU%20-%20East%20West%20University.cqfaculty) |
 | **EU** Eastern University | Dhaka | 207 | 195 | 3.6 MB | [download](bangladesh/EU%20-%20Eastern%20University.cqfaculty) |
 | **GUB** Green University of Bangladesh | Dhaka | 156 | 146 | 0.6 MB | [download](bangladesh/GUB%20-%20Green%20University%20of%20Bangladesh.cqfaculty) |
+| **HSTU** Hajee Mohammad Danesh Science and Technology University | Dinajpur | 409 | 360 | 5.9 MB | [download](bangladesh/HSTU%20-%20Hajee%20Mohammad%20Danesh%20Science%20and%20Technology%20University.cqfaculty) |
 | **IUB** Independent University | Dhaka | 262 | 257 | 4.4 MB | [download](bangladesh/IUB%20-%20Independent%20University.cqfaculty) |
 | **IIUC** International Islamic University Chittagong | Chattogram | 359 | 331 | 5.3 MB | [download](bangladesh/IIUC%20-%20International%20Islamic%20University%20Chittagong.cqfaculty) |
 | **IUBAT** International University of Business Agriculture and Technology | Dhaka | 414 | 397 | 6.9 MB | [download](bangladesh/IUBAT%20-%20International%20University%20of%20Buisness%20Agriculture%20and%20Technology.cqfaculty) |
+| **IUS** International University of Scholars | Dhaka | 149 | 117 | 2.4 MB | [download](bangladesh/IUS%20-%20International%20University%20of%20Scholars.cqfaculty) |
 | **IU** Islamic University | Kushtia | 412 | 365 | 5.4 MB | [download](bangladesh/IU%20-%20Islamic%20University.cqfaculty) |
 | **IUT** Islamic University of Technology | Gazipur | 263 | 254 | 4.6 MB | [download](bangladesh/IUT%20-%20Islamic%20University%20of%20Technology.cqfaculty) |
 | **JnU** Jagannath University | Dhaka | 665 | 518 | 8.7 MB | [download](bangladesh/JnU%20-%20Jagannath%20University.cqfaculty) |
@@ -76,6 +79,32 @@ The file names are the ones the website links to, so a list can be fetched from 
 | **UU** Uttara University | Dhaka | 379 | 305 | 4.1 MB | [download](bangladesh/UU%20-%20Uttara%20University.cqfaculty) |
 | **VU** Varendra University | Rajshahi | 310 | 268 | 4.4 MB | [download](bangladesh/VU%20-%20Varendra%20University.cqfaculty) |
 | **WUB** World University of Bangladesh | Dhaka | 240 | 235 | 4.4 MB | [download](bangladesh/WUB%20-%20World%20University%20of%20Bangladesh.cqfaculty) |
+
+## Finland
+
+| University | City | Teachers | Photos | Size | File |
+| --- | --- | ---: | ---: | ---: | --- |
+| **Helsinki** University of Helsinki | Helsinki | 1,583 | 740 | 4.1 MB | [download](finland/Helsinki%20-%20University%20of%20Helsinki.cqfaculty) |
+
+## India
+
+| University | City | Teachers | Photos | Size | File |
+| --- | --- | ---: | ---: | ---: | --- |
+| **Amity** Amity University | Noida | 2,642 | 2,421 | 35.3 MB | [download](india/Amity%20-%20Amity%20University.cqfaculty) |
+| **Ashoka** Ashoka University | Sonipat | 337 | 337 | 6.4 MB | [download](india/Ashoka%20-%20Ashoka%20University.cqfaculty) |
+| **BITS Pilani** Birla Institute of Technology and Science Pilani | Pilani | 428 | 0 | 0.0 MB | [download](india/BITS%20Pilani%20-%20Birla%20Institute%20of%20Technology%20and%20Science%20Pilani.cqfaculty) |
+| **MAHE** Manipal Academy of Higher Education | Manipal | 2,336 | 2,150 | 28.2 MB | [download](india/MAHE%20-%20Manipal%20Academy%20of%20Higher%20Education.cqfaculty) |
+| **JGU** O.P. Jindal Global University | Sonipat | 1,080 | 445 | 8.3 MB | [download](india/JGU%20-%20O.P.%20Jindal%20Global%20University.cqfaculty) |
+| **SRMIST** SRM Institute of Science and Technology | Chennai | 2,495 | 2,313 | 38.1 MB | [download](india/SRMIST%20-%20SRM%20Institute%20of%20Science%20and%20Technology.cqfaculty) |
+| **SIU** Symbiosis International University | Pune | 1,161 | 1,127 | 14.5 MB | [download](india/SIU%20-%20Symbiosis%20International%20University.cqfaculty) |
+| **VIT** Vellore Institute of Technology | Vellore | 1,972 | 1,967 | 28.2 MB | [download](india/VIT%20-%20Vellore%20Institute%20of%20Technology.cqfaculty) |
+
+## Pakistan
+
+| University | City | Teachers | Photos | Size | File |
+| --- | --- | ---: | ---: | ---: | --- |
+| **LUMS** Lahore University of Management Sciences | Lahore | 423 | 308 | 4.7 MB | [download](pakistan/LUMS%20-%20Lahore%20University%20of%20Management%20Sciences.cqfaculty) |
+| **AKU** The Aga Khan University | Karachi | 775 | 695 | 9.3 MB | [download](pakistan/AKU%20-%20The%20Aga%20Khan%20University.cqfaculty) |
 
 ## Where the data comes from
 
