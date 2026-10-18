@@ -23,9 +23,9 @@ The file names are the ones the website links to, so a list can be fetched from 
 | --- | --- | ---: | ---: | ---: | --- |
 | **AUST** Ahsanullah University of Science and Technology | Dhaka | 465 | 439 | 3.0 MB | [download](bangladesh/AUST%20-%20Ahsanullah%20University%20of%20Science%20and%20Technology.cqfaculty) |
 | **AIUB** American International University | Dhaka | 440 | 439 | 6.9 MB | [download](bangladesh/AIUB%20-%20American%20International%20University.cqfaculty) |
-| **BMU** Bangabandhu Sheikh Mujibur Rahman Maritime University | Dhaka | 84 | 73 | 0.7 MB | [download](bangladesh/BMU%20-%20Bangabandhu%20Sheikh%20Mujibur%20Rahman%20Maritime%20University.cqfaculty) |
 | **BAUET** Bangladesh Army University of Engineering & Technology | Natore | 171 | 168 | 2.6 MB | [download](bangladesh/BAUET%20-%20Bangladesh%20Army%20University%20of%20Engineering%20%26%20Technology.cqfaculty) |
 | **BAUST** Bangladesh Army University of Science and Technology | Saidpur | 259 | 252 | 3.0 MB | [download](bangladesh/BAUST%20-%20Bangladesh%20Army%20University%20of%20Science%20and%20Technology.cqfaculty) |
+| **BMU** Bangladesh Maritime University | Dhaka | 84 | 73 | 0.7 MB | [download](bangladesh/BMU%20-%20Bangladesh%20Maritime%20University.cqfaculty) |
 | **BUBT** Bangladesh University of Business and Technology | Dhaka | 469 | 436 | 6.0 MB | [download](bangladesh/BUBT%20-%20Bangladesh%20University%20of%20Business%20and%20Technology.cqfaculty) |
 | **BUET** Bangladesh University of Engineering and Technology | Dhaka | 504 | 287 | 5.2 MB | [download](bangladesh/BUET%20-%20Bangladesh%20University%20of%20Engineering%20and%20Technology.cqfaculty) |
 | **BUP** Bangladesh University of Professionals | Dhaka | 380 | 379 | 6.6 MB | [download](bangladesh/BUP%20-%20Bangladesh%20University%20of%20Professionals.cqfaculty) |
