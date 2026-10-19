@@ -90,14 +90,14 @@ The file names are the ones the website links to, so a list can be fetched from 
 
 | University | City | Teachers | Photos | Size | File |
 | --- | --- | ---: | ---: | ---: | --- |
-| **Amity** Amity University | Noida | 2,642 | 2,421 | 35.3 MB | [download](india/Amity%20-%20Amity%20University.cqfaculty) |
+| **Amity** Amity University | Noida | 2,642 | 2,421 | 22.4 MB | [download](india/Amity%20-%20Amity%20University.cqfaculty) |
 | **Ashoka** Ashoka University | Sonipat | 337 | 337 | 6.4 MB | [download](india/Ashoka%20-%20Ashoka%20University.cqfaculty) |
 | **BITS Pilani** Birla Institute of Technology and Science Pilani | Pilani | 428 | 0 | 0.0 MB | [download](india/BITS%20Pilani%20-%20Birla%20Institute%20of%20Technology%20and%20Science%20Pilani.cqfaculty) |
 | **MAHE** Manipal Academy of Higher Education | Manipal | 2,336 | 2,150 | 28.2 MB | [download](india/MAHE%20-%20Manipal%20Academy%20of%20Higher%20Education.cqfaculty) |
 | **JGU** O.P. Jindal Global University | Sonipat | 1,080 | 445 | 8.3 MB | [download](india/JGU%20-%20O.P.%20Jindal%20Global%20University.cqfaculty) |
-| **SRMIST** SRM Institute of Science and Technology | Chennai | 2,495 | 2,313 | 38.1 MB | [download](india/SRMIST%20-%20SRM%20Institute%20of%20Science%20and%20Technology.cqfaculty) |
+| **SRMIST** SRM Institute of Science and Technology | Chennai | 2,495 | 2,313 | 20.9 MB | [download](india/SRMIST%20-%20SRM%20Institute%20of%20Science%20and%20Technology.cqfaculty) |
 | **SIU** Symbiosis International University | Pune | 1,161 | 1,127 | 14.5 MB | [download](india/SIU%20-%20Symbiosis%20International%20University.cqfaculty) |
-| **VIT** Vellore Institute of Technology | Vellore | 1,972 | 1,967 | 28.2 MB | [download](india/VIT%20-%20Vellore%20Institute%20of%20Technology.cqfaculty) |
+| **VIT** Vellore Institute of Technology | Vellore | 1,972 | 1,967 | 17.2 MB | [download](india/VIT%20-%20Vellore%20Institute%20of%20Technology.cqfaculty) |
 
 ## Pakistan
 
@@ -111,4 +111,3 @@ The file names are the ones the website links to, so a list can be fetched from 
 Every list is compiled from the faculty pages each university publishes on its own website. Nothing is invented: a field the page does not show for a person is left empty, office-wide phone numbers and e-mail addresses shared by many people are left out, and pages that are not people are skipped.
 
 If you are listed and want your entry corrected or removed, write to support@zealtyro.com.
-
